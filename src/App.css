@@ -1,0 +1,9 @@
+.par {
+  background: -webkit-linear-gradient(to right, #e6b2c6, #d6e5fa);
+  background: linear-gradient(to right, #e6b2c6, #d6e5fa);
+
+height: 100vh;
+}
+.font-quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
