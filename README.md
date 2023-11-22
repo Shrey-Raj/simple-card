@@ -1,8 +1,10 @@
-# React + Vite
+## Cryptonet Technologies Private Limited - Simple Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Technologies used : 
+- React 
+- Tailwind 
+- Heroicons npm package 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (18)](https://github.com/Shrey-Raj/simple-card/assets/119098647/36485a74-f020-450e-9be0-de642a779270)
+
